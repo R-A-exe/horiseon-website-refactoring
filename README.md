@@ -6,8 +6,8 @@
 
 Refactoring the Horiseon website HTML and CSS to improve accessibility. Refactoring includes HTML semantics and structure upgrades, as well as CSS consolidation for efficiency improvements.
 
-![website image1](./Assets/images/screenshot1.png)
-![website image2](./Assets/images/screenshot2.png)
+![website image1](/Assets/images/screenshot1.png)
+![website image2](/Assets/images/screenshot2.png)
 
 ## Details
 
