@@ -1,5 +1,7 @@
 /* GENERAL */
 
+
+/* general formatting */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,19 +9,23 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
+/* special font for header and footer */
 .header-footer-font{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+/* general font for a tags */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* general font size for p */
 p {
     font-size: 16px;
 }
 
+/* white background */
 body {
     background-color: #d9dcd6;
 }
